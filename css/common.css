@@ -17,10 +17,10 @@ span, i, b, mark, strong{display: inline-block;}  /* 인라인요소 */
 
 *{
     box-sizing: border-box;
-    color:#333;
+    color:#fff;
     font-size: 1rem;   
     /* rem은 최상위 태그가 가지고 있는 폰트 사이즈에 곱하기 */
     /* em은 부모가 가지고 있는 폰트 사이즈 */
 }
 
-mobile - 
+/* mobile -  */

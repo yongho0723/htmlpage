@@ -1,0 +1,26 @@
+/* common.css */
+/* 태그들의 기본값을 초기화 내용,
+공통으로 사용 할 스탕일들 작성, */
+html,body{margin:0; font-size: 16px;}
+h1, h2, h3, h4, p, figure{margin:0;}   /* 다 블락요소이면서 마진이 들어가 있음 */
+ul, li{list-style-type: none; margin:0; padding:0;}
+img{vertical-align: middle;}
+a{text-decoration: none; }
+table{border-collapse: collapse;}
+fieldset, legend{margin:0; padding:0;}
+input{}
+select{}
+textarea{}
+
+span, i, b, mark, strong{display: inline-block;}  /* 인라인요소 */
+
+
+*{
+    box-sizing: border-box;
+    color:#333;
+    font-size: 1rem;   
+    /* rem은 최상위 태그가 가지고 있는 폰트 사이즈에 곱하기 */
+    /* em은 부모가 가지고 있는 폰트 사이즈 */
+}
+
+mobile - 

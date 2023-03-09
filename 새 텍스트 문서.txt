@@ -1,0 +1,2 @@
+common.css (공통스타일)
+index.css
